@@ -34,7 +34,7 @@ Determine the percentage of admissions that qualify as 30-day readmissions.
 
 # 🔄 Solution Workflow
 
-![Workflow](workflow.jpeg)
+![Workflow](workflow.png)
 
 The overall approach was:
 
